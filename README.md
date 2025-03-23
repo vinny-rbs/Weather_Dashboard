@@ -4,13 +4,13 @@ Um dashboard responsivo, desenvolvido com princípios de UI e UX Design, que int
 
 ## 🎥 Demonstração  
 
-<img aling="center" src="/Character Counter/src/assets/demo/Character_counter_visualizer_action.png">
+<img aling="center" src="Weather Dashboard  Desing UI/img/Weather_dashboard_visualizer.png">
 
 ## 📱 Responsividade
 
 <div align="center">
-  <img height="500" width="300" src="/Character Counter/src/assets/demo/Character_counter_visualizer_tablet.png">
-  <img height="400" width="200" src="/Character Counter/src/assets/demo/Character_counter_visualizer_mobile.png">
+  <img height="500" width="375" src="Weather Dashboard  Desing UI/img/Weather_dashboard_visualizer_tablet.png">
+  <img height="400" width="200" src="Weather Dashboard  Desing UI/img/Weather_dashboard_visualizer_mobile.png">
 </div>
 
 ## 🚀 Tecnologias
